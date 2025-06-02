@@ -1,5 +1,8 @@
 # :rocket: Bitcoin Trading System
 
+### Disclaimer :red_circle: :bangbang:
+This trading system is not profitable as shown in the Trade Log Graph, it is purely for educational purposes, do not use this for any trading!
+
 ## Description
 I made this C++ trading system building off of the krakenapi repository in order to authenticate private api endpoints to execute algorithmic trades. My addition to this is I built an algorithmic trading system to trade Bitcoin by utilizing some machine learning.
 
@@ -28,8 +31,6 @@ This system is fully built in C++ and contains an authenticated WebSocket in ord
 6. Boost     (Data Parsing in JSON)
 7. CURL      (REST Requests)
 
-### Disclaimer :red_circle: :bangbang:
-This trading system is not profitable as shown in the Trade Log Graph, it is purely for educational purposes, do not use this for any trading!
 
 ## Trade Log Graph :blue_book:
 ![alt](https://github.com/MoQuant/BitcoinTrader/blob/master/bitcoin_trader/images/btc.png)
